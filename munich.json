@@ -6,7 +6,8 @@
       "properties": {
         "formattedAddress": "Munich, Germany",
         "marker-color": "#e91813",
-        "locationType": "APPROXIMATE"
+        "locationType": "APPROXIMATE",
+        "title": "Munich, Germany"
       },
       "geometry": {
         "type": "Point",
