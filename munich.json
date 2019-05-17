@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "formattedAddress": "Munich, Germany",
+        "marker-color": "#e91813",
+        "locationType": "APPROXIMATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819805,
+          48.1351253
+        ]
+      },
+      "id": "LocationMarker"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "#4192e7",
+        "fill-opacity": "0.4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.360796,
+              48.0616018
+            ],
+            [
+              11.360796,
+              48.2482197
+            ],
+            [
+              11.7228755,
+              48.2482197
+            ],
+            [
+              11.7228755,
+              48.0616018
+            ],
+            [
+              11.360796,
+              48.0616018
+            ]
+          ]
+        ]
+      },
+      "id": "BoundingBox"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geohash": "u281",
+        "name": "u281"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              47.98828125
+            ],
+            [
+              11.25,
+              48.1640625
+            ],
+            [
+              11.6015625,
+              48.1640625
+            ],
+            [
+              11.6015625,
+              47.98828125
+            ],
+            [
+              11.25,
+              47.98828125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geohash": "u283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6015625,
+              47.98828125
+            ],
+            [
+              11.6015625,
+              48.1640625
+            ],
+            [
+              11.953125,
+              48.1640625
+            ],
+            [
+              11.953125,
+              47.98828125
+            ],
+            [
+              11.6015625,
+              47.98828125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geohash": "u284"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              48.1640625
+            ],
+            [
+              11.25,
+              48.33984375
+            ],
+            [
+              11.6015625,
+              48.33984375
+            ],
+            [
+              11.6015625,
+              48.1640625
+            ],
+            [
+              11.25,
+              48.1640625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geohash": "u286"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6015625,
+              48.1640625
+            ],
+            [
+              11.6015625,
+              48.33984375
+            ],
+            [
+              11.953125,
+              48.33984375
+            ],
+            [
+              11.953125,
+              48.1640625
+            ],
+            [
+              11.6015625,
+              48.1640625
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
