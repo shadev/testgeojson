@@ -56,7 +56,7 @@
       "type": "Feature",
       "properties": {
         "geohash": "u281",
-        "name": "u281"
+        "title": "u281"
       },
       "geometry": {
         "type": "Polygon",
